@@ -1,7 +1,6 @@
-
 /* -*- Mode:C++; c-file-style:"gnu"; indent-tabs-mode:nil; -*- */
 /*
- * Copyright (c) 2013 ResiliNets, ITTC, University of Kansas 
+ * Copyright (c) 2017 NITK Surathkal
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 as
@@ -16,20 +15,15 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * Authors: 
- *
- * James P.G. Sterbenz <jpgs@ittc.ku.edu>, director
- * ResiliNets Research Group  http://wiki.ittc.ku.edu/resilinets
- * Information and Telecommunication Technology Center (ITTC)
- * and Department of Electrical Engineering and Computer Science
- * The University of Kansas Lawrence, KS USA.
- *
- * Work supported in part by NSF FIND (Future Internet Design) Program
- * under grant CNS-0626918 (Postmodern Internet Architecture),
- * NSF grant CNS-1050226 (Multilayer Network Resilience Analysis and Experimentation on GENI),
- * US Department of Defense (DoD), and ITTC at The University of Kansas.
+ * Authors: Anirudh Sriram <ADD-EMAIL>
+ *          Prajwal Kailas <ADD-EMAIL>
+ *          David Joseph Attokaren <davidjattokaren@gmail.com>
  */
 
+/*
+ * NOTE: This code is an adaptation of the Swift Start paper written by BBN Technologies.
+ * Paper link: www.icir.org/mallman/pubs/PRAKS02/PRAKS02.ps (which is also included in this repository).
+ */
 #ifndef TCP_SWIFTSTART_H
 #define TCP_SWIFTSTART_H
 
