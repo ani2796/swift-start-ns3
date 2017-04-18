@@ -8,8 +8,10 @@ tcp-swiftstart.h
 Files Modified
 --------------
 tcp-variants-comparison.cc  
-wscript
+wscript  
+tcp.rst
 
-The above files were modified to include the Tcp Swift Start implementation.
+The above files were modified to include the Tcp Swift Start implementation.  
+Testing was done with the existing TCP test suite.
 
 
